@@ -1,10 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T20:32:38.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="olN2MZskHh3nW6F4y9yi" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-22T20:40:32.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="RyHpNTVYU6qZw_lWruV0" version="12.8.8" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="2034" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1675" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-UhzXpVQuSyRchcQJ48B-196" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;fontFamily=Tahoma;fontSize=13;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-201" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontFamily=Tahoma;fontSize=13;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="2750" width="460" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-199" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;fontFamily=Tahoma;fontSize=13;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="2800" width="200" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-196" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAD9D5;fontFamily=Tahoma;fontSize=13;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="2800" width="200" height="560" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-195" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;fontFamily=Tahoma;fontSize=13;strokeColor=none;" vertex="1" parent="1">
@@ -350,7 +356,7 @@
               <mxPoint x="850" y="2470" />
               <mxPoint x="1530" y="2470" />
               <mxPoint x="1530" y="2760" />
-              <mxPoint x="1435" y="2760" />
+              <mxPoint x="1455" y="2760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -380,7 +386,7 @@
           <mxGeometry x="0.224" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1420" y="2730" />
-              <mxPoint x="1230" y="2730" />
+              <mxPoint x="1210" y="2730" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -437,12 +443,12 @@
               <mxPoint x="200" y="3230" />
               <mxPoint x="220" y="3230" />
               <mxPoint x="220" y="3240" />
-              <mxPoint x="1850" y="3240" />
+              <mxPoint x="1880" y="3240" />
+              <mxPoint x="1880" y="2906" />
               <mxPoint x="1850" y="2906" />
-              <mxPoint x="1830" y="2906" />
-              <mxPoint x="1830" y="2890" />
-              <mxPoint x="1800" y="2890" />
-              <mxPoint x="1800" y="2906" />
+              <mxPoint x="1850" y="2890" />
+              <mxPoint x="1820" y="2890" />
+              <mxPoint x="1820" y="2906" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -459,11 +465,11 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="700" y="3190" />
-              <mxPoint x="1435" y="3190" />
-              <mxPoint x="1435" y="3070" />
-              <mxPoint x="1450" y="3070" />
-              <mxPoint x="1450" y="3050" />
-              <mxPoint x="1435" y="3050" />
+              <mxPoint x="1455" y="3190" />
+              <mxPoint x="1455" y="3070" />
+              <mxPoint x="1460" y="3070" />
+              <mxPoint x="1460" y="3050" />
+              <mxPoint x="1455" y="3050" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -486,10 +492,17 @@
         <mxCell id="-UhzXpVQuSyRchcQJ48B-146" value="Edinburgh Trees &amp; Woodlands Action Plan" style="rounded=1;fillColor=#7EA6E0;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="876" y="2810" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-UhzXpVQuSyRchcQJ48B-175" value="supports" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startFill=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=13;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-199" target="-UhzXpVQuSyRchcQJ48B-162">
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-175" value="supports" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startFill=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=13;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-147" target="-UhzXpVQuSyRchcQJ48B-162">
           <mxGeometry x="0.8205" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1653" y="2700" />
+              <mxPoint x="956" y="3070" />
+              <mxPoint x="1200" y="3070" />
+              <mxPoint x="1200" y="3060" />
+              <mxPoint x="1260" y="3060" />
+              <mxPoint x="1260" y="3070" />
+              <mxPoint x="1840" y="3070" />
+              <mxPoint x="1840" y="2710" />
+              <mxPoint x="1673" y="2710" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -513,81 +526,68 @@
             <Array as="points">
               <mxPoint x="210" y="2855" />
               <mxPoint x="210" y="3270" />
-              <mxPoint x="1270" y="3270" />
-              <mxPoint x="1270" y="3250" />
-              <mxPoint x="1280" y="3250" />
-              <mxPoint x="1280" y="3180" />
-              <mxPoint x="1270" y="3180" />
+              <mxPoint x="1250" y="3270" />
+              <mxPoint x="1250" y="3250" />
+              <mxPoint x="1260" y="3250" />
+              <mxPoint x="1260" y="3180" />
+              <mxPoint x="1250" y="3180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-156" value="Edinburgh Local Biodiversity Action Plan" style="rounded=1;fillColor=#97D077;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="2810" width="160" height="60" as="geometry" />
+          <mxGeometry x="1130" y="2810" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-172" value="aligned with" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startFill=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=13;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-160" target="-UhzXpVQuSyRchcQJ48B-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-UhzXpVQuSyRchcQJ48B-160" value="Climate Change Adaptation Framework 2014-2020" style="rounded=1;fillColor=#FFD966;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="2810" width="170" height="60" as="geometry" />
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-160" value="Climate Change Adaptation Framework 2014-2020" style="rounded=1;fillColor=#FFB570;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="2810" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-170" value="informs" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=13;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-161" target="-UhzXpVQuSyRchcQJ48B-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="2960" />
+              <mxPoint x="1340" y="2840" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-171" value="&lt;div&gt;dellivers &lt;br&gt;&lt;/div&gt;&lt;div&gt;the commitments&amp;nbsp; of&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startFill=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=13;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-161" target="-UhzXpVQuSyRchcQJ48B-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-UhzXpVQuSyRchcQJ48B-171" value="delivers the commitments of" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startFill=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=13;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-161" target="-UhzXpVQuSyRchcQJ48B-160">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-UhzXpVQuSyRchcQJ48B-161" value="Climate Change Adaptation Action Plan" style="rounded=1;fillColor=#FFD966;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="2930" width="170" height="60" as="geometry" />
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-161" value="Climate Change Adaptation Action Plan" style="rounded=1;fillColor=#FFB570;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="2930" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-173" value="influences" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startFill=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=13;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-162" target="-UhzXpVQuSyRchcQJ48B-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-162" value="Sustainable Edinburgh 2020 Strategic Framework" style="rounded=1;fillColor=#CDA2BE;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="2760" width="170" height="60" as="geometry" />
+          <mxGeometry x="1630" y="2760" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-164" value="Sustainable Energy Action Plan 2015 - 2020" style="rounded=1;fillColor=#CDA2BE;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="2870" width="170" height="60" as="geometry" />
+          <mxGeometry x="1630" y="2870" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-174" value="aligned with" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startFill=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=13;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-165" target="-UhzXpVQuSyRchcQJ48B-162">
           <mxGeometry x="0.6001" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1810" y="3010" />
-              <mxPoint x="1810" y="2720" />
-              <mxPoint x="1695" y="2720" />
+              <mxPoint x="1830" y="3010" />
+              <mxPoint x="1830" y="2730" />
+              <mxPoint x="1715" y="2730" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-165" value="Edible Edinburgh City Plan" style="rounded=1;fillColor=#CDA2BE;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="2980" width="170" height="60" as="geometry" />
+          <mxGeometry x="1630" y="2980" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-UhzXpVQuSyRchcQJ48B-177" value="supports" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startFill=0;strokeColor=#999999;fontFamily=Tahoma;fontSize=13;fontColor=#10739E;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-176" target="-UhzXpVQuSyRchcQJ48B-144">
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-177" value="supports" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startFill=0;strokeColor=#999999;fontFamily=Tahoma;fontSize=13;fontColor=#10739E;labelBackgroundColor=#FAD9D5;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-176" target="-UhzXpVQuSyRchcQJ48B-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-176" value="Edinburgh Design Guidance" style="rounded=1;fillColor=#F19C99;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="3101" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-197" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;fontFamily=Tahoma;fontSize=13;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="3290" width="1050" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-UhzXpVQuSyRchcQJ48B-199" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;fontFamily=Tahoma;fontSize=13;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="2820" width="200" height="560" as="geometry" />
-        </mxCell>
-        <mxCell id="-UhzXpVQuSyRchcQJ48B-200" value="supports" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startFill=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=13;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-147" target="-UhzXpVQuSyRchcQJ48B-199">
-          <mxGeometry x="0.8205" relative="1" as="geometry">
-            <mxPoint x="956" y="3000" as="sourcePoint" />
-            <mxPoint x="1652.5" y="2760" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="956" y="3060" />
-              <mxPoint x="1220" y="3060" />
-              <mxPoint x="1220" y="3050" />
-              <mxPoint x="1280" y="3050" />
-              <mxPoint x="1280" y="3060" />
-              <mxPoint x="1820" y="3060" />
-              <mxPoint x="1820" y="2700" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="270" y="3290" width="1030" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
