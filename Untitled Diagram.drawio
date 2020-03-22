@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T19:34:54.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="chSE8pw1QxjdbA0s_lT4" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-22T19:45:24.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="s4Nkj_9Zl_YpNUrGxQYU" version="12.8.8" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="1675" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2034" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,21 +284,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-122" value="Flood Risk Management (Scotland) Act 2009" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2520" width="160" height="60" as="geometry" />
+          <mxGeometry x="10" y="2520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-136" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-123" target="-UhzXpVQuSyRchcQJ48B-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-123" value="Planning (Scotland) Act 2019" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="2520" width="160" height="60" as="geometry" />
+          <mxGeometry x="200" y="2520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-137" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#999999;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-124" target="-UhzXpVQuSyRchcQJ48B-131">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="2680" as="targetPoint" />
+            <mxPoint x="300" y="2680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-124" value="Scottish Planning Policies" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="460" y="2520" width="160" height="60" as="geometry" />
+          <mxGeometry x="390" y="2520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-138" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-125" target="-UhzXpVQuSyRchcQJ48B-131">
           <mxGeometry relative="1" as="geometry" />
@@ -307,42 +307,59 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-125" value="National Planning Framework 3" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="650" y="2520" width="160" height="60" as="geometry" />
+          <mxGeometry x="580" y="2520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-139" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#999999;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-126" target="-UhzXpVQuSyRchcQJ48B-131">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="2680" as="targetPoint" />
+            <mxPoint x="300" y="2680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-126" value="Climate Change (Scotland) Act 2009" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="840" y="2520" width="160" height="60" as="geometry" />
+          <mxGeometry x="770" y="2520" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-UhzXpVQuSyRchcQJ48B-143" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-127" target="-UhzXpVQuSyRchcQJ48B-133">
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-143" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#999999;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-127" target="-UhzXpVQuSyRchcQJ48B-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-127" value="Scottish Forest Strategy" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2520" width="160" height="60" as="geometry" />
+          <mxGeometry x="960" y="2520" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-155" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-128" target="-UhzXpVQuSyRchcQJ48B-147">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1230" y="2690" />
+              <mxPoint x="1090" y="2690" />
+              <mxPoint x="1090" y="2970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-128" value="Community Empowerment (Scotland) Act 2015" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="2520" width="160" height="60" as="geometry" />
+          <mxGeometry x="1150" y="2520" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-157" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-129" target="-UhzXpVQuSyRchcQJ48B-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1420" y="2730" />
+              <mxPoint x="1230" y="2730" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-129" value="UK Biodiversity Action Plan" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="2520" width="160" height="60" as="geometry" />
+          <mxGeometry x="1340" y="2520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-130" value="Local Flood Risk Management Plan - Forth Estuary " style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2680" width="160" height="60" as="geometry" />
+          <mxGeometry x="10" y="2680" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-141" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-131" target="-UhzXpVQuSyRchcQJ48B-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-131" value="Strategic Development Plan for South East Scotland" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="2680" width="160" height="60" as="geometry" />
+          <mxGeometry x="290" y="2680" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-150" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-132" target="-UhzXpVQuSyRchcQJ48B-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-132" value="Central Scotland Green Network" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="690" y="2680" width="160" height="60" as="geometry" />
+          <mxGeometry x="620" y="2680" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-142" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-133" target="-UhzXpVQuSyRchcQJ48B-132">
           <mxGeometry relative="1" as="geometry" />
@@ -351,33 +368,59 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-133" value="Edinburgh &amp; Lothians Forest and Woodland Strategy" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="960" y="2680" width="160" height="60" as="geometry" />
+          <mxGeometry x="860" y="2680" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-144" value="Edinburgh Local Development Plan" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="2820" width="160" height="60" as="geometry" />
+          <mxGeometry x="290" y="2820" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-UhzXpVQuSyRchcQJ48B-152" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-145" target="-UhzXpVQuSyRchcQJ48B-147">
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-167" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#999999;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-145" target="-UhzXpVQuSyRchcQJ48B-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-145" value="Edinburgh Open Space Strategy" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="2810" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-159" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;startArrow=classic;startFill=1;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-146" target="-UhzXpVQuSyRchcQJ48B-156">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="930" y="2840" />
-              <mxPoint x="930" y="2970" />
+              <mxPoint x="1080" y="2840" />
+              <mxPoint x="1080" y="2830" />
+              <mxPoint x="1100" y="2830" />
+              <mxPoint x="1100" y="2840" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-UhzXpVQuSyRchcQJ48B-145" value="Edinburgh Open Space Strategy" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="690" y="2810" width="160" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-146" value="Edinburgh Trees &amp; Woodlands Action Plan" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="960" y="2810" width="160" height="60" as="geometry" />
+          <mxGeometry x="860" y="2810" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-147" value="Allotment Strategy" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="960" y="2940" width="160" height="60" as="geometry" />
+          <mxGeometry x="860" y="2940" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-151" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-148" target="-UhzXpVQuSyRchcQJ48B-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-158" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="-UhzXpVQuSyRchcQJ48B-148" target="-UhzXpVQuSyRchcQJ48B-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-UhzXpVQuSyRchcQJ48B-148" value="Edinburgh Living Landscape Programme Plan" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="960" y="3060" width="160" height="60" as="geometry" />
+          <mxGeometry x="860" y="3060" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-156" value="Edinburgh Local Biodiversity Action Plan" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="2810" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-160" value="Climate Change Adaptation Framework 2014-2020" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="2810" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-161" value="Climate Change Adaptation Action Plan" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="2930" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-162" value="Sustainable Edinburgh 2020 Strategic Framework" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="2810" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-164" value="Sustainable Energy Action Plan 2015 - 2020" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="2930" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-UhzXpVQuSyRchcQJ48B-165" value="Edible Edinburgh City Plan" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="3030" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
