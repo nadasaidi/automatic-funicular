@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T10:18:49.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="E9qWdYniUHrArR-o3q9k" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-22T10:21:24.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="UUOZde919W5Rp_HFCqB7" version="12.8.8" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="2034" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -157,12 +157,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="103" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="10" edge="1">
-          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
-            <mxPoint x="-23" y="235.5" as="sourcePoint" />
-            <mxPoint x="1042" y="455.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="104" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="4" target="48" edge="1">
           <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
             <mxPoint x="-23" y="235.5" as="sourcePoint" />
@@ -208,8 +202,8 @@
         <mxCell id="o9-z1RI_EK6PcWkdSyOs-151" value="Value" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="30" y="830" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-152" value="Air purification" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="190" y="575.5" width="130" height="60" as="geometry" />
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-152" value="Private gardens" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="770" y="860" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9-z1RI_EK6PcWkdSyOs-153" value="Water purification" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="180" y="640" width="130" height="60" as="geometry" />
@@ -268,8 +262,35 @@
         <mxCell id="o9-z1RI_EK6PcWkdSyOs-174" value="Green/blue infrastructure of network" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="600" y="635.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-175" value="Terminology" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-175" value="Natural environment / place" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="592" y="725.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-176" value="Natural capital" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="592" y="810" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-177" value="Ecosystem" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="592" y="890" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-178" value="Trees / Woodland" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="767" y="560" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-179" value="Water features" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="767" y="630" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-180" value="Soil / Geodiversity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="767" y="710" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-181" value="Parks" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="767" y="785.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-183" value="Air purification" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="190" y="575.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-184" value="Allotments" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="770" y="935.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-185" value="Brownfield" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="767" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
