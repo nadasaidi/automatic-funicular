@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T10:31:26.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="tVbUQLQ8Fd9qsBLMs-ww" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-22T10:32:55.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="r_t5ZZKZHXiY7JxTBnbF" version="12.8.8" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="2034" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="122" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="97" y="325.5" width="1470" height="99.99999999999994" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="Nature" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="12" value="Nature" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1130" y="335.5" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="Ecosystem services" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="13" value="Ecosystem services" style="rounded=1;fillColor=#999999;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="107" y="335.5" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="107" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;strokeWidth=2" parent="1" target="15" edge="1">
@@ -19,112 +19,112 @@
             <mxPoint x="77" y="135.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-127" value="Terminology" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-127" value="Terminology" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="30" y="475.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-143" value="Individual services" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-143" value="Individual services" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="475.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-145" value="Ecosystem services" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-145" value="Ecosystem services" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="17" y="700" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-149" value="Contribution" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-149" value="Contribution" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="27" y="785.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-150" value="Benefits" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-150" value="Benefits" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="17" y="870" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-151" value="Value" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-151" value="Value" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="27" y="950" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-152" value="Private gardens" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-152" value="Private gardens" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1335" y="980" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-153" value="Water purification" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-153" value="Water purification" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="177" y="760" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-154" value="Carbon storage / sequestration " style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-154" value="Carbon storage / sequestration " style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="187" y="825.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-155" value="Cooling" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-155" value="Cooling" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="197" y="890" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-158" value="Flood protection / mitigation" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-158" value="Flood protection / mitigation" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="187" y="960" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-159" value="Noise attenuation" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-159" value="Noise attenuation" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="187" y="1040" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-160" value="Pollination" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-160" value="Pollination" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="187" y="1115.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-161" value="Habitat provision" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-161" value="Habitat provision" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="373" y="550.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-162" value="Recreation" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-162" value="Recreation" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="373" y="640.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-163" value="Experiencing nature" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-163" value="Experiencing nature" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="373" y="720.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-165" value="Socialising" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-165" value="Socialising" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="363" y="810.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-166" value="Supporting identity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-166" value="Supporting identity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="363" y="880.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-167" value="Physical activity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-167" value="Physical activity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="960.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-168" value="Food" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-168" value="Food" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="1030.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-169" value="Disservices" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-169" value="Disservices" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="1100.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-170" value="Biodiversity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-170" value="Biodiversity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1000" y="475.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-171" value="Terminology" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-171" value="Terminology" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1168" y="475.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-172" value="(Semi-)natural features" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-172" value="(Semi-)natural features" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1335" y="475.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-173" value="Greenspace" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-173" value="Greenspace" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1165" y="680" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9-z1RI_EK6PcWkdSyOs-174" value="Green/blue infrastructure of network" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1165" y="755.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-175" value="Natural environment / place" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-175" value="Natural environment / place" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1157" y="845.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-176" value="Natural capital" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-176" value="Natural capital" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1157" y="930" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-177" value="Ecosystem" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-177" value="Ecosystem" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1157" y="1010" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-178" value="Trees / Woodland" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-178" value="Trees / Woodland" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1332" y="680" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-179" value="Water features" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-179" value="Water features" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1332" y="750" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-180" value="Soil / Geodiversity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-180" value="Soil / Geodiversity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1332" y="830" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-181" value="Parks" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-181" value="Parks" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1332" y="905.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-183" value="Air purification" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-183" value="Air purification" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="187" y="695.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-184" value="Allotments" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-184" value="Allotments" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1335" y="1055.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-185" value="Brownfield" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-185" value="Brownfield" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1332" y="1130" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9-z1RI_EK6PcWkdSyOs-192" value="Direct drivers" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
