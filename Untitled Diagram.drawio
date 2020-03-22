@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T11:06:19.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="qDtdWmhDBvRvpZJ3dHWY" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-22T11:07:36.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="FDFVG0ArKe-hQFzEdN44" version="12.8.8" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="2373" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1675" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-246" value="" style="fillColor=#23445D;strokeColor=none;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1840" width="450" height="589.5" as="geometry" />
+        </mxCell>
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-247" value="" style="fillColor=#9CBD8B;strokeColor=none;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1730" width="451.5" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="o9-z1RI_EK6PcWkdSyOs-244" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="158.5" y="1280" width="1171.5" height="100" as="geometry" />
         </mxCell>
@@ -215,18 +221,18 @@
           <mxGeometry x="177" y="1410" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9-z1RI_EK6PcWkdSyOs-212" value="Targeted components" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1790" width="130" height="60" as="geometry" />
+          <mxGeometry x="318.5" y="1750" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9-z1RI_EK6PcWkdSyOs-213" value="Ecosystem services" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2010" width="130" height="60" as="geometry" />
+          <mxGeometry x="177" y="1861" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9-z1RI_EK6PcWkdSyOs-214" value="Anthropogenic assets" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2080" width="130" height="60" as="geometry" />
+          <mxGeometry x="318.5" y="1861" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9-z1RI_EK6PcWkdSyOs-215" value="Direct drivers" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2160" width="130" height="60" as="geometry" />
+          <mxGeometry x="460" y="1861" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-217" value="Managin landscape features" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-217" value="Managing landscape features" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="720" y="2010" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9-z1RI_EK6PcWkdSyOs-218" value="Building stakeholders&#39; capacity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
