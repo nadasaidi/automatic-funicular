@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-22T10:57:17.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="aVMMkVt5yxdVISqpb0jX" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-22T10:58:39.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" etag="-x4dhCLT7hix9oiyYdpm" version="12.8.8" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="2034" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2373" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,85 +145,85 @@
         <mxCell id="o9-z1RI_EK6PcWkdSyOs-185" value="Brownfield" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1217" y="968.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-192" value="Direct drivers" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-192" value="Direct drivers" style="rounded=1;fillColor=#10739E;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1239.9999999999998" y="1320" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-193" value="Good quality of life" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-193" value="Good quality of life" style="rounded=1;fillColor=#10739E;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="260" y="1310" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-194" value="Policies &amp; Strategical actions" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-194" value="Policies &amp; Strategical actions" style="rounded=1;fillColor=#10739E;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="789.9999999999998" y="1800" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-195" value="Types of measures" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-195" value="Types of measures" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="710" y="1940" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-196" value="Well-being" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-196" value="Well-being" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="1470" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-197" value="Built environment" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-197" value="Built environment" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="747" y="1450" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-198" value="Economy" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-198" value="Economy" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="140" y="1550" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-199" value="Energy" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-199" value="Energy" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="1550" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-200" value="Habitat conversion" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-200" value="Habitat conversion" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1350" y="1430" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-202" value="Anthropogenic assets" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-202" value="Anthropogenic assets" style="rounded=1;fillColor=#10739E;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="819.9999999999998" y="1310" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-203" value="Sense of place" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-203" value="Sense of place" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="450" y="1480" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-204" value="Human resources &amp; knowlsedge" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-204" value="Human resources &amp; knowlsedge" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="910" y="1450" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-205" value="Financial resources" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-205" value="Financial resources" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="767" y="1535.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-206" value="Climate change" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-206" value="Climate change" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1170" y="1430" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-207" value="Pollution" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-207" value="Pollution" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1170" y="1520" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-208" value="Exploitation" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-208" value="Exploitation" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1335" y="1520" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-209" value="Invasive species" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-209" value="Invasive species" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1180" y="1595.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-210" value="Disease" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-210" value="Disease" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1595.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-211" value="Health" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-211" value="Health" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="160" y="1485.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-212" value="Targeted components" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-212" value="Targeted components" style="rounded=1;fillColor=#9CBD8B;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="1940" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-213" value="Ecosystem services" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-213" value="Ecosystem services" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="480" y="2010" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-214" value="Anthropogenic assets" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-214" value="Anthropogenic assets" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="480" y="2080" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-215" value="Direct drivers" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-215" value="Direct drivers" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="480" y="2160" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-217" value="Managin landscape features" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-217" value="Managin landscape features" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="720" y="2010" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-218" value="Building stakeholders&#39; capacity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-218" value="Building stakeholders&#39; capacity" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="720" y="2080" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-219" value="Fostering collaboration" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-219" value="Fostering collaboration" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="720" y="2160" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o9-z1RI_EK6PcWkdSyOs-220" value="Producing or using science" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="o9-z1RI_EK6PcWkdSyOs-220" value="Producing or using science" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="720" y="2230" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9-z1RI_EK6PcWkdSyOs-222" value="Education" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" vertex="1" parent="1">
