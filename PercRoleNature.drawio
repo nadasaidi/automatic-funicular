@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-06-25T06:56:17.529Z" agent="5.0 (Windows)" version="13.3.4" etag="YkQLjJoYChtGpAQsWEFP" type="github"><diagram id="3jO2q79QekQxGxMABE4A">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-25T06:58:48.311Z" agent="5.0 (Windows)" etag="c-F1MYPBL1zFlWgCW4aE" version="13.3.4" type="github">
+  <diagram id="3jO2q79QekQxGxMABE4A" name="Page-1">
+    <mxGraphModel dx="1362" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yknS8TGnMi3s3szBie4E-1" value="Nature in general" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yknS8TGnMi3s3szBie4E-2" value="Green spaces" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yknS8TGnMi3s3szBie4E-3" value="Nature-based solutions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
