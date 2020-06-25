@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-25T11:04:23.995Z" agent="5.0 (Windows)" etag="EHB8zwdMIr6ExwB4UH5w" version="13.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-25T11:06:30.951Z" agent="5.0 (Windows)" etag="Dk7TI_YWEt3vRrj5hFAO" version="13.3.4" type="github">
   <diagram id="3jO2q79QekQxGxMABE4A" name="Page-1">
     <mxGraphModel dx="1362" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="CMU Sans Serif^https://fonts.googleapis.com/css?family=CMU+Sans+Serif">
       <root>
@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yknS8TGnMi3s3szBie4E-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=CMU Sans Serif;fontSize=18;arcSize=9;strokeColor=#969696;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="478" y="246" width="285" height="154" as="geometry" />
+          <mxGeometry x="483.87" y="246.13" width="272.67" height="154" as="geometry" />
         </mxCell>
         <mxCell id="yknS8TGnMi3s3szBie4E-106" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shadow=0;dashed=1;fillColor=#CCCCCC;fontFamily=CMU Sans Serif;fontSize=18;fontColor=#969696;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=none;width=16.27906976744186;endSize=6.365116279069768;endWidth=19.469983775013525;" edge="1" parent="1" source="yknS8TGnMi3s3szBie4E-26" target="yknS8TGnMi3s3szBie4E-18">
           <mxGeometry relative="1" as="geometry">
@@ -60,16 +60,16 @@
           <mxGeometry x="174.68" y="324.63" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yknS8TGnMi3s3szBie4E-9" value="Recreation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=CMU Sans Serif;FType=g;fontSize=18;fontColor=#969696;strokeColor=#969696;" vertex="1" parent="1">
-          <mxGeometry x="610" y="259" width="120" height="60" as="geometry" />
+          <mxGeometry x="624" y="259" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yknS8TGnMi3s3szBie4E-10" value="Passive experience of nature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=CMU Sans Serif;FType=g;fontSize=18;fontColor=#969696;strokeColor=#969696;" vertex="1" parent="1">
-          <mxGeometry x="480" y="325" width="120" height="70" as="geometry" />
+        <mxCell id="yknS8TGnMi3s3szBie4E-10" value="Passive experience of nature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=CMU Sans Serif;FType=g;fontSize=17;fontColor=#969696;strokeColor=#969696;" vertex="1" parent="1">
+          <mxGeometry x="494" y="324.63" width="120" height="65.37" as="geometry" />
         </mxCell>
         <mxCell id="yknS8TGnMi3s3szBie4E-11" value="Food growing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=CMU Sans Serif;FType=g;fontSize=18;fontColor=#969696;strokeColor=#969696;" vertex="1" parent="1">
-          <mxGeometry x="610" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="624" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yknS8TGnMi3s3szBie4E-12" value="Aesthetics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=CMU Sans Serif;FType=g;fontSize=18;fontColor=#969696;strokeColor=#969696;" vertex="1" parent="1">
-          <mxGeometry x="480" y="259" width="120" height="60" as="geometry" />
+          <mxGeometry x="494" y="259" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yknS8TGnMi3s3szBie4E-13" value="Biodiversity" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=CMU Sans Serif;FType=g;fontSize=18;fillColor=#E1F5E0;fontColor=#969696;strokeColor=#969696;" vertex="1" parent="1">
           <mxGeometry x="890" y="480" width="120" height="60" as="geometry" />
@@ -122,8 +122,7 @@
             <mxPoint x="717.3" y="227" as="sourcePoint" />
             <mxPoint x="590" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="621" y="210" />
-              <mxPoint x="620" y="210" />
+              <mxPoint x="620" y="246" />
             </Array>
           </mxGeometry>
         </mxCell>
