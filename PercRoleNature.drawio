@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-25T07:47:40.518Z" agent="5.0 (Windows)" etag="0zc_GNa49-DaKRvm2S-Q" version="13.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-25T07:57:23.841Z" agent="5.0 (Windows)" etag="WUpQVf0DlUCflMKVz6vj" version="13.3.4" type="github">
   <diagram id="3jO2q79QekQxGxMABE4A" name="Page-1">
     <mxGraphModel dx="1362" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="CMU Sans Serif^https://fonts.googleapis.com/css?family=CMU+Sans+Serif">
       <root>
@@ -14,13 +14,13 @@
           <mxGeometry x="190" y="225" width="320" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yknS8TGnMi3s3szBie4E-1" value="Nature in general" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=CMU Sans Serif;FType=g;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="400" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="570" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="yknS8TGnMi3s3szBie4E-2" value="Green spaces" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=CMU Sans Serif;FType=g;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="530" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="570" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yknS8TGnMi3s3szBie4E-3" value="Nature-based solutions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=CMU Sans Serif;FType=g;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="270" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="570" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yknS8TGnMi3s3szBie4E-5" value="Flooding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=CMU Sans Serif;FType=g;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="220" y="269" width="120" height="60" as="geometry" />
@@ -48,9 +48,6 @@
         </mxCell>
         <mxCell id="yknS8TGnMi3s3szBie4E-13" value="Biodiversity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=CMU Sans Serif;FType=g;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="430" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yknS8TGnMi3s3szBie4E-14" value="General health" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=CMU Sans Serif;FType=g;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="713.75" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yknS8TGnMi3s3szBie4E-16" value="Mental health" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontFamily=CMU Sans Serif;FType=g;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="710" y="100" width="120" height="60" as="geometry" />
@@ -83,7 +80,10 @@
           <mxGeometry x="500.63" y="179.38" width="546.25" height="371.25" as="geometry" />
         </mxCell>
         <mxCell id="yknS8TGnMi3s3szBie4E-52" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=78;fontFamily=CMU Sans Serif;fontSize=18;flipH=1;flipV=1;rotation=90;fillColor=#D4E1F5;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-90.62" y="255.63" width="546.25" height="240" as="geometry" />
+          <mxGeometry x="-87.8" y="252.81" width="540.62" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yknS8TGnMi3s3szBie4E-57" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=78;fontFamily=CMU Sans Serif;fontSize=18;flipH=1;flipV=0;rotation=90;fillColor=#D4E1F5;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="376.41" y="138.22" width="629.32" height="536.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
