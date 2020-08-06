@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T08:06:34.456Z" agent="5.0 (Windows)" etag="IhIG-W4GIBo8QHfXxdGZ" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T08:17:04.390Z" agent="5.0 (Windows)" etag="aoZDe1rY0ARS3-zv_dMq" version="13.6.0" type="github">
   <diagram id="8Yflhy8udfIKwnyC9lQC" name="Page-1">
     <mxGraphModel dx="1238" dy="-1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,11 +21,6 @@
         </mxCell>
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAD9D5;fontFamily=Tahoma;fontSize=13;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="2890" width="200" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="Hf7quNikZ0JMG7ykfvhg-7" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFF2CC;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#999999;fontFamily=Tahoma;fontSize=14;fontColor=#F7D263;" parent="1" source="Hf7quNikZ0JMG7ykfvhg-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="895" y="2810" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;fontFamily=Tahoma;fontSize=13;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="660" y="2890" width="470" height="370" as="geometry" />
@@ -102,10 +97,10 @@
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-21" value="Climate Change (Scotland) Act 2009" style="rounded=1;fillColor=#999999;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="830" y="2592" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hf7quNikZ0JMG7ykfvhg-22" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#999999;" parent="1" source="Hf7quNikZ0JMG7ykfvhg-23" target="Hf7quNikZ0JMG7ykfvhg-37" edge="1">
+        <mxCell id="Hf7quNikZ0JMG7ykfvhg-22" value="delivered in part by" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#999999;fontFamily=Tahoma;fontColor=#1072A2;fontSize=13;" parent="1" source="Hf7quNikZ0JMG7ykfvhg-23" target="Hf7quNikZ0JMG7ykfvhg-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hf7quNikZ0JMG7ykfvhg-23" value="Scottish Forest Strategy" style="rounded=1;fillColor=#999999;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="Hf7quNikZ0JMG7ykfvhg-23" value="Scottish Forestry Strategy" style="rounded=1;fillColor=#999999;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1020" y="2592" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-24" value="sets requirements for" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=13;" parent="1" source="Hf7quNikZ0JMG7ykfvhg-25" target="Hf7quNikZ0JMG7ykfvhg-48" edge="1">
@@ -153,7 +148,7 @@
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-32" value="Strategic Development Plan for South East Scotland" style="rounded=1;fillColor=#999999;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="350" y="2770" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hf7quNikZ0JMG7ykfvhg-33" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;" parent="1" source="Hf7quNikZ0JMG7ykfvhg-34" target="Hf7quNikZ0JMG7ykfvhg-44" edge="1">
+        <mxCell id="Hf7quNikZ0JMG7ykfvhg-33" value="delivered in part by" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;fontFamily=Tahoma;fontSize=13;fontColor=#1072A2;" parent="1" source="Hf7quNikZ0JMG7ykfvhg-34" target="Hf7quNikZ0JMG7ykfvhg-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-34" value="Central Scotland Green Network" style="rounded=1;fillColor=#999999;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
@@ -382,16 +377,17 @@
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-85" value="Edinburgh Integration Joint Board -  Strategic Plan 2019-2022" style="rounded=1;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;fillColor=#CDA2BE;" parent="1" vertex="1">
           <mxGeometry x="1940" y="2850" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hf7quNikZ0JMG7ykfvhg-86" value="&lt;font style=&quot;font-size: 13px&quot; face=&quot;Tahoma&quot; color=&quot;#1072a2&quot;&gt;directs&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#969696;" parent="1" source="Hf7quNikZ0JMG7ykfvhg-87" target="Hf7quNikZ0JMG7ykfvhg-85" edge="1">
+        <mxCell id="Hf7quNikZ0JMG7ykfvhg-86" value="&lt;font style=&quot;font-size: 13px&quot; face=&quot;Tahoma&quot; color=&quot;#1072a2&quot;&gt;directs&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#969696;" parent="1" source="Hf7quNikZ0JMG7ykfvhg-87" edge="1">
           <mxGeometry x="-0.4542" relative="1" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="2025" y="2840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-87" value="Public Bodies (Joint&#xa;Working) Act 2014" style="rounded=1;fillColor=#999999;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1580" y="2592" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hf7quNikZ0JMG7ykfvhg-88" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;EDINBURGH INTEGRATION JOINT BOARD (HEALTH &amp;amp; SOCIAL CARE)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=14;fontStyle=1;fontColor=#CDA2BE;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="3050" width="180" height="20" as="geometry" />
+        <mxCell id="Hf7quNikZ0JMG7ykfvhg-88" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;EDINBURGH INTEGRATION JOINT BOARD&lt;br&gt; (HEALTH &amp;amp; SOCIAL CARE)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=14;fontStyle=1;fontColor=#CDA2BE;" parent="1" vertex="1">
+          <mxGeometry x="1925" y="3030" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="52IZVBaOUuIpQHt7L4vZ-1" value="Edinburgh Health and Social Care Partnership Draft Strategic Plan&#xa;2016 - 2019" style="rounded=1;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;fillColor=#CDA2BE;" vertex="1" parent="1">
           <mxGeometry x="1940" y="2920" width="170" height="80" as="geometry" />
