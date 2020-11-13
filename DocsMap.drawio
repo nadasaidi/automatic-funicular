@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T08:17:04.390Z" agent="5.0 (Windows)" etag="aoZDe1rY0ARS3-zv_dMq" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T15:02:55.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="yB2fJrJ428O7H9SzPTr8" version="13.9.7" type="github">
   <diagram id="8Yflhy8udfIKwnyC9lQC" name="Page-1">
-    <mxGraphModel dx="1238" dy="-1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="-1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,10 +200,10 @@
             <Array as="points">
               <mxPoint x="760" y="3280" />
               <mxPoint x="1515" y="3280" />
-              <mxPoint x="1515" y="3160" />
-              <mxPoint x="1520" y="3160" />
-              <mxPoint x="1520" y="3140" />
-              <mxPoint x="1515" y="3140" />
+              <mxPoint x="1515" y="3170" />
+              <mxPoint x="1520" y="3170" />
+              <mxPoint x="1520" y="3150" />
+              <mxPoint x="1515" y="3150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -289,8 +289,8 @@
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-57" value="&lt;div&gt;dellivers &lt;br&gt;&lt;/div&gt;&lt;div&gt;the commitments&amp;nbsp; of&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startFill=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=13;labelBackgroundColor=#FFF2CC;" parent="1" source="Hf7quNikZ0JMG7ykfvhg-58" target="Hf7quNikZ0JMG7ykfvhg-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hf7quNikZ0JMG7ykfvhg-58" value="Climate Change Adaptation Action Plan" style="rounded=1;fillColor=#FFB570;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1430" y="3020" width="170" height="60" as="geometry" />
+        <mxCell id="Hf7quNikZ0JMG7ykfvhg-58" value="Climate Change Adaptation Vision &amp; Action Plan&#xa;2016-2020" style="rounded=1;fillColor=#FFB570;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="3020" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-59" value="influences" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startFill=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=13;labelBackgroundColor=#FFF2CC;" parent="1" source="Hf7quNikZ0JMG7ykfvhg-60" target="Hf7quNikZ0JMG7ykfvhg-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -389,7 +389,7 @@
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-88" value="&lt;p&gt;&lt;/p&gt;&lt;p&gt;EDINBURGH INTEGRATION JOINT BOARD&lt;br&gt; (HEALTH &amp;amp; SOCIAL CARE)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=14;fontStyle=1;fontColor=#CDA2BE;" parent="1" vertex="1">
           <mxGeometry x="1925" y="3030" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="52IZVBaOUuIpQHt7L4vZ-1" value="Edinburgh Health and Social Care Partnership Draft Strategic Plan&#xa;2016 - 2019" style="rounded=1;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;fillColor=#CDA2BE;" vertex="1" parent="1">
+        <mxCell id="52IZVBaOUuIpQHt7L4vZ-1" value="Edinburgh Health and Social Care Partnership Draft Strategic Plan&#xa;2016 - 2019" style="rounded=1;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;whiteSpace=wrap;fillColor=#CDA2BE;" parent="1" vertex="1">
           <mxGeometry x="1940" y="2920" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
