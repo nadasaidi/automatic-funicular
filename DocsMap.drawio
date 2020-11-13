@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T15:05:53.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="fc7gouDv9MxfhfgyiKBv" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T19:48:50.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="ZKokzO3CXWTbcep9PfBY" version="13.9.7" type="github">
   <diagram id="8Yflhy8udfIKwnyC9lQC" name="Page-1">
     <mxGraphModel dx="1748" dy="-1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-33" value="delivered in part by" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;fontFamily=Tahoma;fontSize=20;fontColor=#1072A2;" parent="mNki_vbNGIH-7ykDXorD-1" source="Hf7quNikZ0JMG7ykfvhg-34" target="Hf7quNikZ0JMG7ykfvhg-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hf7quNikZ0JMG7ykfvhg-46" value="Edinburgh Trees &amp;amp; Woodlands Action Plan" style="rounded=1;fillColor=#7EA6E0;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;" parent="mNki_vbNGIH-7ykDXorD-1" vertex="1">
+        <mxCell id="Hf7quNikZ0JMG7ykfvhg-46" value="Edinburgh Trees &amp; Woodlands Action Plan" style="rounded=1;fillColor=#7EA6E0;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;" parent="mNki_vbNGIH-7ykDXorD-1" vertex="1">
           <mxGeometry x="1259.912832929782" y="599.5698924731183" width="230.12106537530263" height="105.80645161290323" as="geometry" />
         </mxCell>
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-36" value="sets priorities for" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=20;" parent="mNki_vbNGIH-7ykDXorD-1" source="Hf7quNikZ0JMG7ykfvhg-37" target="Hf7quNikZ0JMG7ykfvhg-46" edge="1">
@@ -240,7 +240,7 @@
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-57" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;dellivers &lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;the commitments&amp;nbsp; of&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startFill=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=20;labelBackgroundColor=#FFF2CC;" parent="mNki_vbNGIH-7ykDXorD-1" source="Hf7quNikZ0JMG7ykfvhg-58" target="Hf7quNikZ0JMG7ykfvhg-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hf7quNikZ0JMG7ykfvhg-58" value="Climate Change Adaptation Vision &amp;amp; Action Plan&#xa;2016-2020" style="rounded=1;fillColor=#FFB570;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;" parent="mNki_vbNGIH-7ykDXorD-1" vertex="1">
+        <mxCell id="Hf7quNikZ0JMG7ykfvhg-58" value="Climate Change Adaptation Vision &amp; Action Plan&#xa;2016-2020" style="rounded=1;fillColor=#FFB570;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;" parent="mNki_vbNGIH-7ykDXorD-1" vertex="1">
           <mxGeometry x="1970.411622276029" y="811.1827956989247" width="244.50363196125906" height="123.44086021505376" as="geometry" />
         </mxCell>
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-42" value="supports" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startFill=0;strokeColor=#999999;fontColor=#10739E;fontFamily=Tahoma;fontSize=20;" parent="mNki_vbNGIH-7ykDXorD-1" source="Hf7quNikZ0JMG7ykfvhg-44" target="Hf7quNikZ0JMG7ykfvhg-58" edge="1">
@@ -377,7 +377,7 @@
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-84" value="Health" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;fontFamily=Tahoma;fontSize=20;fontColor=#B3B3B3;" parent="mNki_vbNGIH-7ykDXorD-1" vertex="1">
           <mxGeometry x="431.4769975786925" y="1604.731182795699" width="57.53026634382566" height="35.26881720430107" as="geometry" />
         </mxCell>
-        <mxCell id="Hf7quNikZ0JMG7ykfvhg-85" value="Edinburgh Integration Joint Board -&amp;nbsp; Strategic Plan 2019-2022" style="rounded=1;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;fillColor=#CDA2BE;" parent="mNki_vbNGIH-7ykDXorD-1" vertex="1">
+        <mxCell id="Hf7quNikZ0JMG7ykfvhg-85" value="Edinburgh Integration Joint Board - Strategic Plan 2019-2022" style="rounded=1;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=20;whiteSpace=wrap;fillColor=#CDA2BE;" parent="mNki_vbNGIH-7ykDXorD-1" vertex="1">
           <mxGeometry x="2703.9225181598063" y="511.39784946236557" width="244.50363196125906" height="105.80645161290323" as="geometry" />
         </mxCell>
         <mxCell id="Hf7quNikZ0JMG7ykfvhg-86" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Tahoma&quot; color=&quot;#1072a2&quot;&gt;directs&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#969696;fontSize=20;" parent="mNki_vbNGIH-7ykDXorD-1" source="Hf7quNikZ0JMG7ykfvhg-87" edge="1">
