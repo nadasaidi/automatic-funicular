@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T17:21:24.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="13.10.9" etag="8n_OC2kLCQa3dysur8MJ" type="github"><diagram id="vgA6iTGPaxQfXKOa6rfH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-06T17:28:39.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qqyBUsFsjNq7OzF5Apik" version="13.10.9" type="github">
+  <diagram id="vgA6iTGPaxQfXKOa6rfH" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OVi4SH4In0DBITWxW0jp-1" value="Activities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVi4SH4In0DBITWxW0jp-2" value="Tree planting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVi4SH4In0DBITWxW0jp-3" value="Restoration activities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVi4SH4In0DBITWxW0jp-4" value="wetland creation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVi4SH4In0DBITWxW0jp-5" value="low-flow channel construction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVi4SH4In0DBITWxW0jp-6" value="park construction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVi4SH4In0DBITWxW0jp-7" value="Community engagement (= elements of procedural justice)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVi4SH4In0DBITWxW0jp-8" value="Including communities in the&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="350" width="170" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
