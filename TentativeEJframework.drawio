@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T21:56:47.293Z" agent="5.0 (Windows)" etag="Hldbz8aQyeZk4-NtTXbz" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T21:59:59.389Z" agent="5.0 (Windows)" etag="-a8GQ_1OMmbyhD0Gf-6U" version="13.6.6" type="github">
   <diagram id="vgA6iTGPaxQfXKOa6rfH" name="Page-1">
     <mxGraphModel dx="1576" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -165,8 +165,8 @@
         <mxCell id="OVi4SH4In0DBITWxW0jp-75" value="&lt;font color=&quot;#66b2ff&quot;&gt;Social vulnerabilities more integrated into project objectives&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1120" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-77" value="What we called engagement - suggestion of levels based on projects reviewed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="750" width="430" height="20" as="geometry" />
+        <mxCell id="OVi4SH4In0DBITWxW0jp-77" value="In colour -&amp;gt; suggestions of categories based on our lit review" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#990000;" parent="1" vertex="1">
+          <mxGeometry x="105" y="750" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-78" value="Context:&lt;font color=&quot;#66b2ff&quot;&gt; recognition of importance of participatory democracy / taking account social vulnerabilities / etc in the governance system&lt;/font&gt;&lt;br&gt;the city has a clause in contracts that requires community outreach" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="25" width="710" height="30" as="geometry" />
@@ -182,6 +182,9 @@
         </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-76" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=none;fontColor=#990000;strokeColor=#990000;" parent="1" vertex="1">
           <mxGeometry x="66" y="345" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-6" value="&lt;div&gt;Blue: recognition&lt;/div&gt;&lt;div&gt;Orange: procedural&lt;/div&gt;&lt;div&gt;green: distributive&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="660" y="730" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
