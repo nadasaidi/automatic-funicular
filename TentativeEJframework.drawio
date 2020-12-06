@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T23:25:20.154Z" agent="5.0 (Windows)" etag="jXi5sX9Ivy5YD_Jh96JM" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T23:26:32.169Z" agent="5.0 (Windows)" etag="t0U7TXDgQOmbOpcXgFlK" version="13.6.6" type="github">
   <diagram id="vgA6iTGPaxQfXKOa6rfH" name="Page-1">
     <mxGraphModel dx="1371" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -127,12 +127,13 @@
         <mxCell id="OVi4SH4In0DBITWxW0jp-19" value="park with interpretative trail and outdoor classroom" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="1084" y="433" width="120" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;" parent="1" source="OVi4SH4In0DBITWxW0jp-20" target="OVi4SH4In0DBITWxW0jp-45" edge="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="OVi4SH4In0DBITWxW0jp-20" target="OVi4SH4In0DBITWxW0jp-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1088" y="535" />
               <mxPoint x="1088" y="630" />
-              <mxPoint x="1378" y="630" />
+              <mxPoint x="1340" y="630" />
+              <mxPoint x="1340" y="728" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -223,7 +224,7 @@
           <mxGeometry x="1678" y="540" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-3" value="Procedural and recognition justice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="1333" y="755" width="230" height="20" as="geometry" />
+          <mxGeometry x="1343" y="665" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-6" value="&lt;div&gt;&lt;font color=&quot;#66B2FF&quot;&gt;Blue: recognition&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#FFB366&quot;&gt;Orange: procedural&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#9AC7BF&quot;&gt;green: distributive&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="695" y="80" width="140" height="60" as="geometry" />
