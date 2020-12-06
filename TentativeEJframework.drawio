@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T23:12:36.022Z" agent="5.0 (Windows)" etag="JhUTqu7oZ54gqN2D9qlk" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T23:25:20.154Z" agent="5.0 (Windows)" etag="jXi5sX9Ivy5YD_Jh96JM" version="13.6.6" type="github">
   <diagram id="vgA6iTGPaxQfXKOa6rfH" name="Page-1">
-    <mxGraphModel dx="1051" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="480" y="1460" width="310" height="630" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="68" y="940" width="1900" height="170" as="geometry" />
+          <mxGeometry x="68" y="962" width="1900" height="170" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="1298" y="245" width="330" height="655" as="geometry" />
@@ -216,9 +216,6 @@
         <mxCell id="OVi4SH4In0DBITWxW0jp-75" value="&lt;font&gt;Social vulnerabilities more integrated into project objectives&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="1696" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-77" value="&lt;div&gt;In colour -&amp;gt; suggestions of categories based on our lit review&lt;/div&gt;&lt;div&gt;Case studies should cover different degrees of coverage + intensity&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#990000;" parent="1" vertex="1">
-          <mxGeometry x="578" y="885" width="370" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-81" value="&lt;font&gt;Grassroots projects emerged&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="1696" y="745" width="120" height="60" as="geometry" />
         </mxCell>
@@ -280,16 +277,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-12" value="&lt;font color=&quot;#66b2ff&quot;&gt;Recognition of importance of participatory democracy / taking account social vulnerabilities / etc in the governance system&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;the city has a clause in contracts that requires community outreach&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="138" y="990" width="450" height="80" as="geometry" />
+          <mxGeometry x="138" y="1012" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;strokeColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-31" target="vsAwOf1phoWgkUj9JQo5-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-31" value="&lt;font color=&quot;#999999&quot;&gt;Event A (e.g. drought)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;strokeColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="977.32" y="1020" width="191.35" height="50" as="geometry" />
+          <mxGeometry x="977.32" y="1042" width="191.35" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-34" value="Context" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="888" y="1120" width="80" height="20" as="geometry" />
+          <mxGeometry x="888" y="1142" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="120" y="2140" width="1900" height="170" as="geometry" />
@@ -428,11 +425,14 @@
         <mxCell id="vsAwOf1phoWgkUj9JQo5-123" value="Blank tentative framework" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontColor=#FF33FF;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="75" y="1365" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-127" value="Application of the logic model structure widely used in gvt orgas (and beyond) - eg. US EPA see Callahan et al 2014. to integrate the conceptual framework" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#FF33FF;" vertex="1" parent="1">
-          <mxGeometry x="50" y="130" width="540" height="20" as="geometry" />
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-127" value="Application of the logic model structure widely used in gvt orgas (and beyond) - eg. US EPA see Callahan et al 2014. - and integrating concepts we reviewed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-128" value="." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#FF33FF;" vertex="1" parent="1">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-128" value="Tentative framework populated with a fictional example. For stream restoration projects in urban areas, with goals around riparian mgmt, stormwater mgmt and recreation / education" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#FF33FF;" vertex="1" parent="1">
           <mxGeometry x="33" y="40" width="545" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-129" value="&lt;div style=&quot;font-size: 14px&quot;&gt;In colour -&amp;gt; suggestions of categories based on our lit review&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Case studies should cover different degrees of coverage + intensity&lt;br style=&quot;font-size: 14px&quot;&gt; &quot;All else being equal&quot; =&amp;gt; in the same area would make sense. eg different &lt;br style=&quot;font-size: 14px&quot;&gt;reaches of same river (but not necessarily). OK for me the Bay Area &lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="910" width="610" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
