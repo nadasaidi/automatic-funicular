@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T22:49:28.269Z" agent="5.0 (Windows)" etag="z0SX7iB7931_1vb0ladj" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T22:55:05.863Z" agent="5.0 (Windows)" etag="a-gcW9VFK5cUrBRwxtM8" version="13.6.6" type="github">
   <diagram id="vgA6iTGPaxQfXKOa6rfH" name="Page-1">
-    <mxGraphModel dx="2570" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1126" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1160" width="350" height="630" as="geometry" />
+          <mxGeometry x="470" y="1160" width="310" height="630" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="90" y="800" width="1900" height="170" as="geometry" />
@@ -213,8 +213,8 @@
         <mxCell id="OVi4SH4In0DBITWxW0jp-75" value="&lt;font&gt;Social vulnerabilities more integrated into project objectives&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="1718" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-77" value="&lt;div&gt;In colour -&amp;gt; suggestions of categories based on our lit review&lt;/div&gt;&lt;div&gt;Case studies should span&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#990000;" parent="1" vertex="1">
-          <mxGeometry x="615" y="745" width="340" height="30" as="geometry" />
+        <mxCell id="OVi4SH4In0DBITWxW0jp-77" value="&lt;div&gt;In colour -&amp;gt; suggestions of categories based on our lit review&lt;/div&gt;&lt;div&gt;Case studies should cover different degrees of coverage + intensity&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#990000;" parent="1" vertex="1">
+          <mxGeometry x="600" y="745" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-81" value="&lt;font&gt;Grassroots projects emerged&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="1718" y="605" width="120" height="60" as="geometry" />
@@ -282,7 +282,7 @@
         <mxCell id="vsAwOf1phoWgkUj9JQo5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;strokeColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-31" target="vsAwOf1phoWgkUj9JQo5-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-31" value="Event A (e.g. drought)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-31" value="&lt;font color=&quot;#999999&quot;&gt;Event A (e.g. drought)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="999.32" y="880" width="191.35" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-34" value="Context" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
@@ -291,23 +291,26 @@
         <mxCell id="vsAwOf1phoWgkUj9JQo5-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="110" y="1840" width="1900" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=14;fontColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-36" target="vsAwOf1phoWgkUj9JQo5-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="1145" width="330" height="655" as="geometry" />
+          <mxGeometry x="1306" y="1145" width="330" height="655" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="1700" y="1140" width="330" height="655" as="geometry" />
         </mxCell>
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=14;fontColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-38" target="vsAwOf1phoWgkUj9JQo5-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1165" width="370" height="630" as="geometry" />
+          <mxGeometry x="901" y="1165" width="280" height="630" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-39" target="vsAwOf1phoWgkUj9JQo5-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="100" y="1167.5" width="280" height="595" as="geometry" />
-        </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-40" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=none;fontColor=#990000;strokeColor=#990000;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1395" width="290" height="400" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-42" value="Activities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="610" y="1130" width="40" height="20" as="geometry" />
@@ -319,58 +322,52 @@
           <mxGeometry x="550" y="1180" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-52" value="&lt;div&gt;Community engagement (= elements of &lt;br&gt;&lt;/div&gt;&lt;div&gt;procedural and recognition justice)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="538" y="1358" width="260" height="40" as="geometry" />
+          <mxGeometry x="516" y="1358" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-54" value="&lt;font color=&quot;#FFB366&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Enabling community access to decision-making&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#FFB366&quot;&gt;: &lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;xxx if any&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#999999&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="549" y="1423" width="210" height="80" as="geometry" />
+          <mxGeometry x="527" y="1423" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-56" value="&lt;font color=&quot;#66b2ff&quot;&gt;Recognition of EJ in the objectives&lt;/font&gt;: &lt;font color=&quot;#999999&quot;&gt;xxx if any&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="549" y="1523" width="210" height="60" as="geometry" />
+          <mxGeometry x="527" y="1523" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-58" value="&lt;font color=&quot;#FFB366&quot;&gt;development of a programme for community participation:&lt;/font&gt;&lt;br&gt;xxx if any" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="549" y="1603" width="210" height="60" as="geometry" />
+          <mxGeometry x="527" y="1603" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-60" value="&lt;font color=&quot;#FFB366&quot;&gt;Community outreach &amp;amp; education:&lt;/font&gt;&lt;br&gt;xxx if any" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="549" y="1673" width="210" height="60" as="geometry" />
+          <mxGeometry x="527" y="1673" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-61" value="Outputs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1120" width="40" height="20" as="geometry" />
+          <mxGeometry x="1021" y="1120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-62" value="xxx" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="1054.99" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="990.32" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-69" value="&lt;font&gt;x NL, y ppl reached by public presentations, z students reached&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFB366;fontColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1650" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-71" value="&lt;font&gt;x volunteer hours&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFB366;fontColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="955" y="1565" width="125" height="60" as="geometry" />
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-71" value="xxx" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFB366;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="990.3199999999999" y="1560" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-72" value="Outcomes (short term)&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1410" y="1110" width="180" height="20" as="geometry" />
+          <mxGeometry x="1376" y="1110" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-73" value="Flood risk mitigation - &lt;font color=&quot;#9ac7bf&quot;&gt;to which extent and for whom?&lt;/font&gt;&amp;nbsp;&lt;br&gt;e.g. run-off retention map before / after with overlap wrt flood-prone areas &amp;amp; frontline communities in there" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="1175" width="180" height="105" as="geometry" />
+          <mxGeometry x="1386" y="1175" width="180" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-75" target="vsAwOf1phoWgkUj9JQo5-89">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-75" value="&lt;font color=&quot;#999999&quot;&gt;community projects validated as part of the plan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFB366;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1591" width="160" height="50" as="geometry" />
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-75" value="xxxx" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="1366" y="1591" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-76" value="recreation - &lt;font color=&quot;#9ac7bf&quot;&gt;to which extent and for whom? &lt;/font&gt;&lt;br&gt;e.g. number of visitors, photos uploaded (there&#39;s models for that) depending on the features of the park. Accessibility for different communities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1425" y="1290" width="195" height="110" as="geometry" />
+          <mxGeometry x="1391" y="1290" width="195" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-77" value="Habitat quality - &lt;font color=&quot;#9ac7bf&quot;&gt;to which extent&lt;/font&gt;?&amp;nbsp;&lt;br&gt;e.g. based on success rates of planting, on species monitoring, etc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="1410" width="200" height="60" as="geometry" />
+          <mxGeometry x="1386" y="1410" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-78" value="Distributive justice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="1455" y="1145" width="130" height="20" as="geometry" />
+          <mxGeometry x="1421" y="1145" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-79" value="Impacts (longer term)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1725" y="1100" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-80" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="1175" width="20" height="305" as="geometry" />
+          <mxGeometry x="1356" y="1175" width="20" height="305" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-83" value="Flood risk mitigation - &lt;font color=&quot;#9ac7bf&quot;&gt;to which extent and for whom?&lt;/font&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1738" y="1190" width="120" height="50" as="geometry" />
@@ -388,25 +385,19 @@
           <mxGeometry x="1868" y="1200" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-88" value="+ Other outcomes not in the objectives? cooling, sediment retention, water purification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1425" y="1480" width="170" height="20" as="geometry" />
+          <mxGeometry x="1386" y="1503" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-89" value="&lt;font&gt;Frequency of city - communities partnerships increased&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#FFB366;" vertex="1" parent="1">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-89" value="xxxx" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#FFB366;" vertex="1" parent="1">
           <mxGeometry x="1738" y="1565" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-90" value="&lt;font&gt;Social vulnerabilities more integrated into project objectives&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#66B2FF;" vertex="1" parent="1">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-90" value="xxx" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="1738" y="1470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-91" value="&lt;div&gt;In colour -&amp;gt; suggestions of categories based on our lit review&lt;/div&gt;&lt;div&gt;Case studies should span&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#990000;" vertex="1" parent="1">
-          <mxGeometry x="628" y="1783" width="340" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-92" value="&lt;font&gt;Grassroots projects emerged&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#FFB366;" vertex="1" parent="1">
-          <mxGeometry x="1738" y="1645" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-93" value="Procedural and recognition justice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="1720" y="1440" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-94" value="Procedural and recognition justice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="1375" y="1655" width="230" height="20" as="geometry" />
+          <mxGeometry x="1341" y="1560" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-95" value="Inputs " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="1120" width="60" height="20" as="geometry" />
@@ -416,21 +407,10 @@
             <mxPoint x="200" y="1410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.428;entryY=0.863;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontColor=#000000;strokeColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-106" target="vsAwOf1phoWgkUj9JQo5-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="405" y="1750" />
-              <mxPoint x="720" y="1750" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-106" value="&lt;font color=&quot;#66b2ff&quot;&gt;Recognition of importance of participatory democracy / taking account social vulnerabilities / etc in the governance system&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;the city has a clause in contracts that requires community outreach&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-106" value="&lt;font color=&quot;#66b2ff&quot;&gt;Recognition of importance of participatory democracy / taking account social vulnerabilities / etc in the governance system&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;xxx if any&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="180" y="1890" width="450" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;strokeColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-108" target="vsAwOf1phoWgkUj9JQo5-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-108" value="Event A (e.g. drought)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-108" value="&lt;font color=&quot;#999999&quot;&gt;xxx&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="1019.32" y="1920" width="191.35" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-109" value="Context" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
