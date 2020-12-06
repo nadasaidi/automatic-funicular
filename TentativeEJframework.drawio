@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T22:36:51.488Z" agent="5.0 (Windows)" etag="G2NrTi7q0eCTk-hcWuUQ" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T22:42:58.367Z" agent="5.0 (Windows)" etag="Xg6uONafpykz5J_Thn4s" version="13.6.6" type="github">
   <diagram id="vgA6iTGPaxQfXKOa6rfH" name="Page-1">
-    <mxGraphModel dx="1313" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2570" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="90" y="800" width="1900" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="1320" y="105" width="330" height="655" as="geometry" />
         </mxCell>
@@ -25,7 +28,7 @@
         <mxCell id="OVi4SH4In0DBITWxW0jp-1" value="Activities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="670" y="80" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OVi4SH4In0DBITWxW0jp-2" target="OVi4SH4In0DBITWxW0jp-16" edge="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;" parent="1" source="OVi4SH4In0DBITWxW0jp-2" target="OVi4SH4In0DBITWxW0jp-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-2" value="Tree planting" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#999999;" parent="1" vertex="1">
@@ -34,19 +37,19 @@
         <mxCell id="OVi4SH4In0DBITWxW0jp-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;Restoration activities&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="130" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OVi4SH4In0DBITWxW0jp-4" target="OVi4SH4In0DBITWxW0jp-17" edge="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" parent="1" source="OVi4SH4In0DBITWxW0jp-4" target="OVi4SH4In0DBITWxW0jp-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-4" value="Creation of water delivery system" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="630" y="200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OVi4SH4In0DBITWxW0jp-5" target="OVi4SH4In0DBITWxW0jp-18" edge="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" parent="1" source="OVi4SH4In0DBITWxW0jp-5" target="OVi4SH4In0DBITWxW0jp-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-5" value="low-flow channel construction" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="630" y="240" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OVi4SH4In0DBITWxW0jp-6" target="OVi4SH4In0DBITWxW0jp-19" edge="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;" parent="1" source="OVi4SH4In0DBITWxW0jp-6" target="OVi4SH4In0DBITWxW0jp-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-6" value="park construction" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#999999;" parent="1" vertex="1">
@@ -55,13 +58,18 @@
         <mxCell id="OVi4SH4In0DBITWxW0jp-7" value="&lt;div&gt;Community engagement (= elements of &lt;br&gt;&lt;/div&gt;&lt;div&gt;procedural and recognition justice)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="605" y="310" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OVi4SH4In0DBITWxW0jp-10" target="OVi4SH4In0DBITWxW0jp-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OVi4SH4In0DBITWxW0jp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" parent="1" source="OVi4SH4In0DBITWxW0jp-10" target="OVi4SH4In0DBITWxW0jp-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="415" />
+              <mxPoint x="900" y="395" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-10" value="&lt;font color=&quot;#FFB366&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Enabling community access to decision-making&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#FFB366&quot;&gt;: &lt;/font&gt;&lt;br&gt;Putting the plan up to a vote +&amp;nbsp;&lt;/span&gt;Establishment of a citizen advisory committee" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-10" value="&lt;font color=&quot;#FFB366&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Enabling community access to decision-making&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#FFB366&quot;&gt;: &lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;Putting the plan up to a vote +&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#999999&quot;&gt;Establishment of a citizen advisory committee&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="616" y="375" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OVi4SH4In0DBITWxW0jp-11" target="OVi4SH4In0DBITWxW0jp-6" edge="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" parent="1" source="OVi4SH4In0DBITWxW0jp-11" target="OVi4SH4In0DBITWxW0jp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="616" y="480" />
@@ -70,19 +78,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-11" value="&lt;font color=&quot;#66b2ff&quot;&gt;Recognition of EJ in the objectives&lt;/font&gt;: historical interpretation and accessibility" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-11" value="&lt;font color=&quot;#66b2ff&quot;&gt;Recognition of EJ in the objectives&lt;/font&gt;: &lt;font color=&quot;#999999&quot;&gt;historical interpretation and accessibility&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="616" y="475" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OVi4SH4In0DBITWxW0jp-13" target="OVi4SH4In0DBITWxW0jp-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OVi4SH4In0DBITWxW0jp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;" parent="1" source="OVi4SH4In0DBITWxW0jp-13" target="OVi4SH4In0DBITWxW0jp-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="585" />
+              <mxPoint x="890" y="555" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-13" value="&lt;font color=&quot;#FFB366&quot;&gt;development of a programme for community participation:&lt;/font&gt;&lt;br&gt;Volunteering opportunities" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-13" value="&lt;font color=&quot;#FFB366&quot;&gt;development of a programme for community participation:&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;Volunteering opportunities&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="616" y="555" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OVi4SH4In0DBITWxW0jp-14" target="OVi4SH4In0DBITWxW0jp-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OVi4SH4In0DBITWxW0jp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" parent="1" source="OVi4SH4In0DBITWxW0jp-14" target="OVi4SH4In0DBITWxW0jp-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="655" />
+              <mxPoint x="890" y="635" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-14" value="&lt;font color=&quot;#FFB366&quot;&gt;Community outreach &amp;amp; education:&lt;/font&gt;&lt;br&gt;publication of NL + public presentations + educational programmes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-14" value="&lt;font color=&quot;#FFB366&quot;&gt;Community outreach &amp;amp; education:&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;publication of NL + public presentations + educational programmes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="616" y="625" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-15" value="Outputs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
@@ -98,9 +116,9 @@
           <mxGeometry x="1106" y="253" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-19" value="park with interpretative trail and outdoor classroom" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="1106" y="293" width="120" height="30" as="geometry" />
+          <mxGeometry x="1106" y="293" width="120" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OVi4SH4In0DBITWxW0jp-20" target="OVi4SH4In0DBITWxW0jp-45" edge="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#999999;" parent="1" source="OVi4SH4In0DBITWxW0jp-20" target="OVi4SH4In0DBITWxW0jp-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1110" y="395" />
@@ -112,7 +130,7 @@
         <mxCell id="OVi4SH4In0DBITWxW0jp-20" value="&lt;font&gt;Area plan developed by the committee&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFB366;fontColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="930" y="370" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="OVi4SH4In0DBITWxW0jp-21" target="OVi4SH4In0DBITWxW0jp-47">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#000000;strokeColor=#999999;" edge="1" parent="1" source="OVi4SH4In0DBITWxW0jp-21" target="OVi4SH4In0DBITWxW0jp-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1300" y="635" />
@@ -123,7 +141,7 @@
         <mxCell id="OVi4SH4In0DBITWxW0jp-21" value="&lt;font&gt;x NL, y ppl reached by public presentations, z students reached&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFB366;fontColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="940" y="610" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="OVi4SH4In0DBITWxW0jp-27" target="OVi4SH4In0DBITWxW0jp-16" edge="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#999999;" parent="1" source="OVi4SH4In0DBITWxW0jp-27" target="OVi4SH4In0DBITWxW0jp-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-27" value="&lt;font&gt;x volunteer hours&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFB366;fontColor=#999999;" parent="1" vertex="1">
@@ -135,10 +153,10 @@
         <mxCell id="OVi4SH4In0DBITWxW0jp-44" value="Flood risk mitigation - &lt;font color=&quot;#9ac7bf&quot;&gt;to which extent and for whom?&lt;/font&gt;&amp;nbsp;&lt;br&gt;e.g. run-off retention map before / after with overlap wrt flood-prone areas &amp;amp; frontline communities in there" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="135" width="180" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OVi4SH4In0DBITWxW0jp-45" target="OVi4SH4In0DBITWxW0jp-73" edge="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#999999;" parent="1" source="OVi4SH4In0DBITWxW0jp-45" target="OVi4SH4In0DBITWxW0jp-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-45" value="&lt;font color=&quot;#FFB366&quot;&gt;community projects validated as part of the plan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-45" value="&lt;font color=&quot;#999999&quot;&gt;community projects validated as part of the plan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="1380" y="551" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-47" value="recreation - &lt;font color=&quot;#9ac7bf&quot;&gt;to which extent and for whom? &lt;/font&gt;&lt;br&gt;e.g. number of visitors, photos uploaded (there&#39;s models for that) depending on the features of the park. Accessibility for different communities" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -183,16 +201,16 @@
         <mxCell id="OVi4SH4In0DBITWxW0jp-72" value="+ Other outcomes not in the objectives? cooling, sediment retention, water purification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1405" y="440" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-73" value="&lt;font color=&quot;#FFB366&quot;&gt;Frequency of city - communities partnerships increased&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-73" value="&lt;font&gt;Frequency of city - communities partnerships increased&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="1718" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-75" value="&lt;font color=&quot;#66b2ff&quot;&gt;Social vulnerabilities more integrated into project objectives&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-75" value="&lt;font&gt;Social vulnerabilities more integrated into project objectives&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="1718" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-77" value="&lt;div&gt;In colour -&amp;gt; suggestions of categories based on our lit review&lt;/div&gt;&lt;div&gt;Case studies should span&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#990000;" parent="1" vertex="1">
           <mxGeometry x="615" y="745" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-81" value="&lt;font color=&quot;#FFB366&quot;&gt;Grassroots projects emerged&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-81" value="&lt;font&gt;Grassroots projects emerged&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#999999;strokeColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="1718" y="605" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-1" value="Procedural and recognition justice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontStyle=4" vertex="1" parent="1">
@@ -207,16 +225,16 @@
         <mxCell id="vsAwOf1phoWgkUj9JQo5-8" value="Inputs " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="150" y="80" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-9" target="vsAwOf1phoWgkUj9JQo5-10">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;strokeColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-9" target="vsAwOf1phoWgkUj9JQo5-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-9" value="Funder A" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-9" value="Funder A" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="120" y="225" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-10" target="vsAwOf1phoWgkUj9JQo5-11">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;strokeColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-10" target="vsAwOf1phoWgkUj9JQo5-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-10" target="OVi4SH4In0DBITWxW0jp-2">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;strokeColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-10" target="OVi4SH4In0DBITWxW0jp-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="340" />
@@ -224,7 +242,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-10" target="OVi4SH4In0DBITWxW0jp-6">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;strokeColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-10" target="OVi4SH4In0DBITWxW0jp-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="355" />
@@ -232,19 +250,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-10" value="Joint venture between city x and ACE" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-10" value="Joint venture between city x and ACE" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-11" target="OVi4SH4In0DBITWxW0jp-5">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;strokeColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-11" target="OVi4SH4In0DBITWxW0jp-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-11" target="OVi4SH4In0DBITWxW0jp-4">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;strokeColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-11" target="OVi4SH4In0DBITWxW0jp-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-11" value="Contractor B" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-11" value="Contractor B" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;strokeColor=#999999;fontColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="120" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.428;entryY=0.863;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-12" target="OVi4SH4In0DBITWxW0jp-76">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.428;entryY=0.863;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontColor=#000000;strokeColor=#999999;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-12" target="OVi4SH4In0DBITWxW0jp-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="385" y="710" />
@@ -252,20 +270,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-12" value="&lt;font color=&quot;#66b2ff&quot;&gt;Recognition of importance of participatory democracy / taking account social vulnerabilities / etc in the governance system&lt;/font&gt;&lt;br&gt;the city has a clause in contracts that requires community outreach" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-12" value="&lt;font color=&quot;#66b2ff&quot;&gt;Recognition of importance of participatory democracy / taking account social vulnerabilities / etc in the governance system&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#999999&quot;&gt;the city has a clause in contracts that requires community outreach&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="160" y="850" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="vsAwOf1phoWgkUj9JQo5-31" target="vsAwOf1phoWgkUj9JQo5-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-31" value="Event A (e.g. drought)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-31" value="Event A (e.g. drought)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontSize=14;fontColor=#000000;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="999.32" y="880" width="191.35" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="90" y="800" width="1900" height="170" as="geometry" />
-        </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-34" value="Context" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="910" y="1000" width="80" height="20" as="geometry" />
+          <mxGeometry x="910" y="980" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
