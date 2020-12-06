@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T19:52:57.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="-3N5oHDFTcB6q_xbSOLm" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T20:01:14.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="juhWPPj3wf_vz-_pTzU8" version="13.10.9" type="github">
   <diagram id="vgA6iTGPaxQfXKOa6rfH" name="Page-1">
-    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OVi4SH4In0DBITWxW0jp-76" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="290" height="400" as="geometry" />
+        </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-1" value="Activities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="90" width="40" height="20" as="geometry" />
         </mxCell>
@@ -51,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-11" value="&lt;font color=&quot;#f19c99&quot;&gt;Recognition of EJ in the objectives&lt;/font&gt;: historical interpretation and accessibility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OVi4SH4In0DBITWxW0jp-11" value="&lt;font color=&quot;#66b2ff&quot;&gt;Recognition of EJ in the objectives&lt;/font&gt;: historical interpretation and accessibility" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="450" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVi4SH4In0DBITWxW0jp-13" target="OVi4SH4In0DBITWxW0jp-27">
@@ -107,6 +110,9 @@
         <mxCell id="OVi4SH4In0DBITWxW0jp-44" value="Flood risk mitigation - &lt;font color=&quot;#9ac7bf&quot;&gt;to which extent and for whom?&lt;/font&gt;&amp;nbsp;&lt;br&gt;e.g. run-off retention map before / after with overlap wrt flood-prone areas &amp;amp; frontline communities in there" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="135" width="180" height="105" as="geometry" />
         </mxCell>
+        <mxCell id="OVi4SH4In0DBITWxW0jp-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVi4SH4In0DBITWxW0jp-45" target="OVi4SH4In0DBITWxW0jp-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OVi4SH4In0DBITWxW0jp-45" value="&lt;font color=&quot;#f19c99&quot;&gt;community projects validated as part of the plan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="530" width="160" height="50" as="geometry" />
         </mxCell>
@@ -152,8 +158,20 @@
         <mxCell id="OVi4SH4In0DBITWxW0jp-72" value="+ Other outcomes not in the objectives? cooling, sediment retention, water purification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="835" y="440" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OVi4SH4In0DBITWxW0jp-73" value="Frequency of city - communities partnerships increased" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="OVi4SH4In0DBITWxW0jp-73" value="&lt;font color=&quot;#f19c99&quot;&gt;Frequency of city - communities partnerships increased&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVi4SH4In0DBITWxW0jp-75" value="&lt;font color=&quot;#66b2ff&quot;&gt;Social vulnerabilities more integrated into project objectives&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OVi4SH4In0DBITWxW0jp-77" value="What we called engagement - suggestion of levels based on projects reviewed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="750" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OVi4SH4In0DBITWxW0jp-78" value="Context:&lt;font color=&quot;#66b2ff&quot;&gt; recognition of importance of participatory democracy / taking account social vulnerabilities / etc in the governance system&lt;/font&gt;&lt;br&gt;the city has a clause in contracts that requires community outreach" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="25" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVi4SH4In0DBITWxW0jp-81" value="&lt;font color=&quot;#f19c99&quot;&gt;Grassroots projects emerged&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="605" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
