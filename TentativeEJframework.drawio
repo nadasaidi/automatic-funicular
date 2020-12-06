@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T23:26:32.169Z" agent="5.0 (Windows)" etag="t0U7TXDgQOmbOpcXgFlK" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T23:29:10.736Z" agent="5.0 (Windows)" etag="RLYibyCXOQ5QtDDg0czK" version="13.6.6" type="github">
   <diagram id="vgA6iTGPaxQfXKOa6rfH" name="Page-1">
-    <mxGraphModel dx="1371" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1582" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -427,13 +427,16 @@
           <mxGeometry x="75" y="1365" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-127" value="Application of the logic model structure widely used in gvt orgas (and beyond) - eg. US EPA see Callahan et al 2014. - and integrating concepts we reviewed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FF99FF;" vertex="1" parent="1">
-          <mxGeometry x="20" y="140" width="540" height="20" as="geometry" />
+          <mxGeometry x="20" y="120" width="650" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vsAwOf1phoWgkUj9JQo5-128" value="Tentative framework populated with a fictional example. For stream restoration projects in urban areas, with goals around riparian mgmt, stormwater mgmt and recreation / education" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#FF33FF;" vertex="1" parent="1">
           <mxGeometry x="33" y="40" width="545" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vsAwOf1phoWgkUj9JQo5-129" value="&lt;div style=&quot;font-size: 14px&quot;&gt;In colour -&amp;gt; suggestions of categories based on our lit review&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Case studies should cover different degrees of coverage + intensity&lt;br style=&quot;font-size: 14px&quot;&gt; &quot;All else being equal&quot; =&amp;gt; in the same area would make sense. eg different &lt;br style=&quot;font-size: 14px&quot;&gt;reaches of same river (but not necessarily). OK for me the Bay Area &lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#990000;" vertex="1" parent="1">
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-129" value="&lt;div style=&quot;font-size: 14px&quot;&gt;In colour -&amp;gt; suggestions of categories based on our lit review&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;Case studies should cover different degrees of coverage + intensity&lt;br style=&quot;font-size: 14px&quot;&gt; &quot;All else being equal&quot; =&amp;gt; in the same area would make sense. eg different &lt;br style=&quot;font-size: 14px&quot;&gt;reaches of same river (but not necessarily). Bay Area OK for me if it helps &lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="410" y="910" width="610" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vsAwOf1phoWgkUj9JQo5-130" value="Dark red for implications for the case studies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="560" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
